@@ -14,6 +14,7 @@ Name | Description
 [webserver.nu](https://github.com/jan9103/webserver.nu) | A library for creating webservers
 [nutils](https://github.com/jan9103/nutils) | Utility functions i often need in my nu scripts
 [pre-commit-nushell](https://github.com/Jan9103/pre-commit-nushell) | pre-commit hooks for nushell projects
+[merge_nu_scripts](https://github.com/Jan9103/merge_nu_scripts) | Merge multiple nu script files into a single portable one
 
 ### Archival tools
 
@@ -33,9 +34,9 @@ Name | Description
 
 ## My toolchain
 
-- OS: [NixOS](https://github.com/nixos/)
-- WindowManager: [i3wm](https://i3wm.org/) / [Hyprland](https://hyprland.org/)
-- Terminal: [WezTerm](https://github.com/wez/wezterm) / [Foot](https://codeberg.org/dnkl/foot/)
+- OS: [NixOS](https://github.com/nixos/) (server, laptop) / [Debian](https://www.debian.org/) (desktop)
+- WindowManager: [i3wm](https://i3wm.org/) (desktop) / [Hyprland](https://hyprland.org/) (laptop)
+- Terminal: [WezTerm](https://github.com/wez/wezterm) / [Foot](https://codeberg.org/dnkl/foot/) / [Alacritty](https://alacritty.org/)
 - Shell: [NuShell](https://github.com/nushell/nushell)
 - Editor: [Helix](https://github.com/helix-editor/helix) / [Kibi](https://github.com/ilai-deutel/kibi)
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
