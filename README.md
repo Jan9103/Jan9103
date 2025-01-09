@@ -15,7 +15,6 @@ Name | Status | Description
 [merge_nu_scripts](https://github.com/Jan9103/merge_nu_scripts) | maintained | Merge multiple nu script files into a single portable one
 [nagoya](https://github.com/Jan9103/nagoya) | maintained / expanding | A multithreading helper library
 [potash](https://github.com/Jan9103/potash) | alpha | A TUI library
-[nine](https://github.com/Jan9103/nine) | experiment | A forward compatability library to reduce script-maintenance
 
 ### Archival tools
 
@@ -29,7 +28,6 @@ Name | Status | Description
 Name | Status | Description
 ---- | ------ | -----------
 [cbzerv](https://github.com/Jan9103/cbzerv) | maintained | A ComicBookZip-viewer webserver
-[WarGearCore](https://github.com/Jan9103/WarGearCore) | dormant / deprecated | Sever Software for the minecraft `WarGear` gamemode
 
 ----
 
