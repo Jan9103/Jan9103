@@ -38,10 +38,10 @@ How much time i have available is hard to predict and my priorities shift rapidl
 
 Yes im distrohopping regularly and yes this is often a absolute mess.
 
-- OS: [NixOS](https://github.com/nixos) / [Debian](https://www.debian.org) / [QubesOS](https://www.qubes-os.org)
+- OS: [NixOS](https://github.com/nixos) / voidlinux / [QubesOS](https://www.qubes-os.org)
 - WindowManager: [i3wm](https://i3wm.org) / [xfce](https://xfce.org/)
-- Terminal: [Alacritty](https://alacritty.org) / [xterm](https://en.wikipedia.org/wiki/Xterm)
+- Terminal: wezterm / [xterm](https://en.wikipedia.org/wiki/Xterm)
 - Shell: [NuShell](https://github.com/nushell/nushell)
-- Editor: [Helix](https://github.com/helix-editor/helix) / [Kibi](https://github.com/ilai-deutel/kibi) + [dvtm](https://github.com/martanne/dvtm)
+- Editor: [Helix](https://github.com/helix-editor/helix)
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new)
 - Organisation/…: selfhosted [gitea](https://about.gitea.com)
