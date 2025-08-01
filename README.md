@@ -25,6 +25,14 @@ Name | Status | Description
 
 ---
 
+## Contact
+
+* GitHub issues, PR, discussions, etc on the relevant project
+* [discord](https://discord.gg/nznHehdRZF) (server)
+* [matrix](https://matrix.to/#/@jan9103:matrix.org) (account)
+
+---
+
 ## "is x abandoned ?"
 
 How much time i have available is hard to predict and my priorities shift rapidly.  
