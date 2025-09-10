@@ -12,9 +12,8 @@ Name | Status | Description
 [webserver.nu](https://github.com/jan9103/webserver.nu) | maintained | A library for creating webservers
 [nutils](https://github.com/jan9103/nutils) | maintained | Utility functions i often need in my nu scripts
 [nagoya](https://github.com/Jan9103/nagoya) | maintained | A multithreading helper library
-[potash](https://github.com/Jan9103/potash) | alpha | A TUI library
 [ajs.nu](https://github.com/Jan9103/ajs.nu) | alpha | Job-System extensions
-[syrup](https://github.com/Jan9103/syrup) | alpha | Another prompt for nushell
+[syrup](https://github.com/Jan9103/syrup) | beta | Another prompt for nushell
 
 ### Other
 
@@ -22,7 +21,7 @@ Name | Status | Description
 ---- | ------ | -----------
 [github-repo-backuper](https://github.com/Jan9103/github-repo-backuper) | maintained | Archive GitHub repos including their issues, etc
 [cbzerv](https://github.com/Jan9103/cbzerv) | maintained | A ComicBookZip-viewer webserver
-[nups2](https://github.com/Jan9103/nups2) | alpha | A toolkit for inspecting forgelight game assets
+[nups2](https://github.com/Jan9103/nups2) | semi-maintained beta | A toolkit for inspecting forgelight game assets
 [atrea](https://github.com/Jan9103/atrea) | maintained | 3rd party twitch recommendation algorithm
 
 ---
