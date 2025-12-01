@@ -32,25 +32,16 @@ Name | Status | Description
 * [discord](https://discord.gg/nznHehdRZF) (server)
 * [matrix](https://matrix.to/#/@jan9103:matrix.org) (account)
 
----
-
-## "is x abandoned ?"
-
-How much time i have available is hard to predict and my priorities shift rapidly.  
-[My forks](https://github.com/Jan9103?tab=repositories&q&type=fork&language&sort) are just for pull requests.  
-[My archived repos](https://github.com/Jan9103?tab=repositories&q&type=archived&language&sort) are "abandoned", superseeded, or similar.  
-[All other repos](https://github.com/Jan9103?tab=repositories&q&type=source&language&sort) are active (if they are in "maintenance" mode i will write it into its README).
-
 ----
 
 ## My toolchain
 
-Yes im distrohopping regularly and yes this is often a absolute mess.
+Yes i distrohop regularly and yes this is often a absolute mess.
 
-- OS: [NixOS](https://github.com/nixos) / voidlinux / [QubesOS](https://www.qubes-os.org)
+- OS: [NixOS](https://github.com/nixos) / [voidlinux](https://voidlinux.org/) / [QubesOS](https://www.qubes-os.org)
 - WindowManager: [i3wm](https://i3wm.org) / [xfce](https://xfce.org/)
-- Terminal: wezterm / [xterm](https://en.wikipedia.org/wiki/Xterm)
+- Terminal: [wezterm](https://github.com/wezterm/wezterm) / [xterm](https://en.wikipedia.org/wiki/Xterm)
 - Shell: [NuShell](https://github.com/nushell/nushell)
 - Editor: [Helix](https://github.com/helix-editor/helix)
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new)
-- Organisation/…: selfhosted [gitea](https://about.gitea.com)
+- Organisation/…: ~~selfhosted [gitea](https://about.gitea.com)~~ (hardware defect)
